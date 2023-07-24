@@ -14,7 +14,7 @@
 
 
 ## 功能介绍
-<img src="https://xuezhabiji.com/images/program/book/gn.png" width="600" height="500" /><br>
+<img src="https://xuezhabiji.com/images/program/book/gn.png" width="750" height="500" /><br>
 
 ## 技术学习
 
@@ -43,7 +43,7 @@
 
 ## 安装教程
 
-1.代码分为两部分，blog-vue是前端代码，blog-java是后端代码。<br>
+1.代码分为两部分，book-vue是前端代码，book-java是后端代码。<br>
 2.安装开发环境jdk、node.js、vscode、idea/eclipse、MySQL5.7。<br>
 3.在mysql中创建数据库blog，导入后台代码中的blog.sql。<br>
 4.启动前端程序和后端程序即可，后端程序默认启动端口是10000，前端调用后台默认也是调用10000端口，可自行修改。<br>
